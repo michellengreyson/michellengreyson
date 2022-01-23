@@ -6,7 +6,7 @@
 <p align="center">Reach out via email: michellengreyson@gmail.com</p>
 
 <a href="MY LINK">
-  <img align="left" src="https://github.com/michellengreyson/michellengreyson/blob/main/youtube.png?raw=true" height: "22" width: "22" />
+  <img align="left" src="https://github.com/michellengreyson/michellengreyson/blob/main/youtube.png?raw=true" height: "22px" width: "22px" />
 </a>
 
 
