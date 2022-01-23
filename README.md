@@ -1,7 +1,7 @@
 ![image](https://github.com/michellengreyson/michellengreyson/blob/main/banner-img.png?raw=true)
 
 
-  # Hi, I’m Michelle.
+  <p align="center"># Hi, I’m Michelle.</p>
   #### I’m interested in: Front-end web development and UI/UX design.
   #### Reach out via email: michellengreyson@gmail.com
 
