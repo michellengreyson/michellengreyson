@@ -1,9 +1,9 @@
 ![image](https://github.com/michellengreyson/michellengreyson/blob/main/banner-img.png?raw=true)
 
 <div align="center"> 
-  # Hi, I’m Michelle.
-  ### I’m interested in: Front-end web development and UI/UX design.
-  ### Reach out via email: michellengreyson@gmail.com
+  Hi, I’m Michelle.
+  I’m interested in: Front-end web development and UI/UX design.
+  Reach out via email: michellengreyson@gmail.com
 </div>
 
 <!---
