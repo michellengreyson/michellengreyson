@@ -1,4 +1,4 @@
-
+![image](https://github.com/michellengreyson/michellengreyson/blob/main/banner-img.png?raw=true)
 
 - 👋 Hi, I’m Michelle.
 - 👀 I’m interested in: Javascript and React. Frontend web development.
