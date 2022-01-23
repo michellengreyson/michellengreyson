@@ -5,8 +5,8 @@
 <p align="center">I’m interested in: Front-end web development and UI/UX design.</p>
 <p align="center">Reach out via email: michellengreyson@gmail.com</p>
 
-<a href="MY LINK">
-  <img align="left"  height: "10px" width: "10px" />
+<a href="https://www.linkedin.com/in/michellengreyson/">
+  <img align="left" src=""  />
 </a>
 
 
