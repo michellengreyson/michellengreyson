@@ -1,4 +1,4 @@
-![This is an image]("C:\Users\miche\Pictures\Greyson Logos\Twitch Banner.png")
+![This is an image](C:\Users\miche\Pictures\Greyson Logos\Twitch Banner.png)
 
 - 👋 Hi, I’m Michelle.
 - 👀 I’m interested in: Javascript and React. Frontend web development.
