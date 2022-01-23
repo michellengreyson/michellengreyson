@@ -6,8 +6,15 @@
 <p align="center">Reach out via email: michellengreyson@gmail.com</p>
 
 <a href="https://www.linkedin.com/in/michellengreyson/">
-  <img align="left" src="https://github.com/michellengreyson/michellengreyson/blob/main/linkedin_black_logo_icon_147114.png?raw=true" color:"white"  />
+  <img align="left" src="https://github.com/michellengreyson/michellengreyson/blob/main/linkedin_black_logo_icon_147114.png?raw=true" />
 </a>
+<a href="https://dribbble.com/michellengreyson">
+  <img align="left" src="https://github.com/michellengreyson/michellengreyson/blob/main/dribbble.png?raw=true" />
+</a>
+<a href="https://twitter.com/GreysonMichelle">
+  <img align="left" src="https://github.com/michellengreyson/michellengreyson/blob/main/twitter.png?raw=true" />
+</a>
+
 
 
 
