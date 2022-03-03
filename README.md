@@ -1,4 +1,4 @@
-![image](https://github.com/michellengreyson/michellengreyson/blob/main/animated%20greyson%20banner.gif?raw=true)
+![image](https://github.com/michellengreyson/michellengreyson/blob/main/LinkedIn%20cover2.png?raw=true)
 
 
 <h1 align="center">Hi! I'm Michelle.</h1>
